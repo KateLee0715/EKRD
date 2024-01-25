@@ -11,7 +11,7 @@ This is the Pytorch implementation for our paper: **Efficient Knowledge-aware Re
 # Dataset
 We provide three processed datasets and the corresponding knowledge graphs: MovieLens and LastFM and Amazon-book.
 
-# How to Run the Code
+# Usage
 You need to create the `History/` directory. The command to train EKRD on the CKE teacher model on  MovieLens/LastFM/Amazon-book dataset is as follows.
 * MovieLens
   
